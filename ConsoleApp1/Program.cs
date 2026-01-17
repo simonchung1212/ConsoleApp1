@@ -1,8 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("test gitflow3");
-Console.WriteLine("test gitflow2");
 //Console.WriteLine("What is your name?");
 //var name = Console.ReadLine();
 //var currentDate = DateTime.Now;
