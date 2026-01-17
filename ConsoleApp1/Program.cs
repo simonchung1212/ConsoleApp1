@@ -7,4 +7,5 @@ Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {c
 Console.Write($"{Environment.NewLine}Press any key to exit...");
 Console.ReadKey(true);
 Console.WriteLine("Hello, World!");
+Console.WriteLine("test gitflow3");
 Console.WriteLine("test gitflow2");
